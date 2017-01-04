@@ -66,6 +66,9 @@
 <wire x1="42.85" y1="0" x2="42.85" y2="21.58" width="0" layer="20"/>
 <wire x1="42.85" y1="21.58" x2="0" y2="21.58" width="0" layer="20"/>
 <wire x1="0" y1="21.58" x2="0" y2="0" width="0" layer="20"/>
+<text x="12.065" y="0.635" size="1.016" layer="25" font="vector">Xenocoder Pedals</text>
+<text x="36.195" y="0.635" size="1.016" layer="25" font="vector">01.2017</text>
+<text x="23.495" y="19.685" size="1.016" layer="25" font="vector">TTG Wicked Switch v1.0</text>
 </plain>
 <libraries>
 <library name="mb_supply">

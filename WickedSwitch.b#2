@@ -431,11 +431,11 @@ Please make sure your boards conform to these design rules.</description>
 <element name="GND" library="mb_supply" package="SQUARE" value="GND(T)" x="2.54" y="1.905" smashed="yes">
 <attribute name="NAME" x="1.27" y="0.635" size="0.8128" layer="25" ratio="12" rot="R90"/>
 </element>
-<element name="IC1" library="40xx" package="DIL14" value="4093N" x="17.78" y="11.43" smashed="yes" rot="R270">
+<element name="IC1" library="40xx" package="DIL14" value="CD4093" x="17.78" y="11.43" smashed="yes" rot="R270">
 <attribute name="NAME" x="16.637" y="6.731" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="17.145" y="18.161" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="IC2" library="40xx" package="DIL14" value="4066N" x="33.02" y="10.16" smashed="yes">
+<element name="IC2" library="40xx" package="DIL14" value="CD4066" x="33.02" y="10.16" smashed="yes">
 <attribute name="NAME" x="36.322" y="9.271" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="26.289" y="9.525" size="1.27" layer="27" ratio="10"/>
 </element>
